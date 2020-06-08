@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist davidxuuts/yii2-qiniu-uploader "*"
+php composer.phar require --prefer-dist davidxu/yii2-qiniu-uploader "*"
 ```
 
 or add
 
 ```
-"davidxuuts/yii2-qiniu-uploader": "*"
+"davidxu/yii2-qiniu-uploader": "*"
 ```
 
 to the require section of your `composer.json` file.

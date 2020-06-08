@@ -1,5 +1,5 @@
 {
-    "name": "davidxuuts/yii2-qiniu-uploader",
+    "name": "davidxu/yii2-qiniu-uploader",
     "description": "This is a Yii2 Qiniu Uploader with plupload",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
